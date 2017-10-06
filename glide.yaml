@@ -1,0 +1,4 @@
+package: github.com/goline/caches
+import:
+- package: github.com/go-redis/redis
+  version: ~6.7.1
